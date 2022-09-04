@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BIJOYKUMARDEY
+- 👋 Hi, I’m Bijoy Kumar Dey
 - 👀 I’m interested in Statistics, Mathematics, Data Analysis Skills and Data Science Algorithms
 - 🌱 I’m currently study M.Sc. Statistics at University of Calcutta
 
